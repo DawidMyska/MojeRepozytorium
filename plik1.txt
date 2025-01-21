@@ -1,2 +1,3 @@
 Text
 Dodatkowa linia
+Następna linia
